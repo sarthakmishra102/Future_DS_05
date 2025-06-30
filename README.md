@@ -16,7 +16,7 @@ This project analyzes user sentiment across social media platforms based on like
 - Evaluate platform-specific behavior and user engagement
 
 ## 📊 Visuals Included
-- KPI cards: Total posts, Avg likes, Avg retweets
+- Cards: Total posts, Avg likes, Avg retweets
 - Sentiment distribution (donut chart)
 - Time-based trends (line chart by hour)
 - Country-level activity map
@@ -25,7 +25,6 @@ This project analyzes user sentiment across social media platforms based on like
 
 ## 🛠 Tools Used
 - Power BI
-- Python (for preprocessing)
 - DAX for calculated columns
 
 ## 🚀 Future Enhancements
