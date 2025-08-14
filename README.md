@@ -1,4 +1,4 @@
-# 💬 Social Media Sentiment Analysis
+# 💬 Social Media Sentiment Analysis | PowerBI Dashboard
 
 ## 📌 Overview
 This project analyzes user sentiment across social media platforms based on likes, retweets, hashtags, and time trends. The goal is to uncover emotional patterns, engagement hotspots, and platform-level behavior.
